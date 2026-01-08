@@ -46,7 +46,7 @@ But the code is there, warts and all!
 
 ### 📫 Let's Chat!
 
-If **FleCSibleLua** piqued your interest, or if you stumbled upon something else in my repos that you'd like to talk about—**please reach out!** I'm always excited to collaborate, discuss wild ideas, or just nerd out about game tech.
+If **FleCSibleLua** piqued your interest, or if you stumbled upon something else in my repos that you'd like to talk about - **please reach out!** I'm always excited to collaborate, discuss wild ideas, or just nerd out about game tech.
 
 <div align="center">
   
