@@ -3,8 +3,8 @@
 <div align="center">
   
   <pre>
-  A_,,,_A       🎓 4th year MIPT student                        
- ((O)V(O))      💼 Intern software developer at 1C              
+  A_,,,_A       🎓 5th year MIPT student                        
+ ((O)V(O))      💼 (Ex) 1C software developer                   
 (w\W|W|W/w)     🎮 Huge computer graphics & game dev nerd       
  \v|W|W|v/      💫 Contributor to Charm Quark Engine            
    "|v|"        🎲 Fan of the "f*ck around and find out" method 
