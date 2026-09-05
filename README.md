@@ -4,7 +4,7 @@
   
   <pre>
   A_,,,_A       🎓 5th year MIPT student                        
- ((O)V(O))      💼 (Ex) 1C software developer                   
+ ((O)V(O))      💼 (Ex) 1C company software engineer            
 (w\W|W|W/w)     🎮 Huge computer graphics & game dev nerd       
  \v|W|W|v/      💫 Contributor to Charm Quark Engine            
    "|v|"        🎲 Fan of the "f*ck around and find out" method 
