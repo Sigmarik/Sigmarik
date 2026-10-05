@@ -15,11 +15,11 @@
 
 ---
 
-### Featured Project: **FleCSibleLua**
+### FleCSibleLua
 
 My GitHub profile is something of a scrapyard of various projects, **[FleCSibleLua](https://github.com/Sigmarik/FleCSibleLUA)** being the most "finished" of them all.
 
-It's a framework that bridges Lua with the Flecs ECS, featuring:
+It is a framework that bridges Lua with the Flecs ECS, featuring:
 - A **custom interpreter** for deeper integration
 - **Compile-time parser generation** because I don't like `flex` and `antlr` quite enough to let them into my project
 - **Enhanced Lua syntax** to make it as expressive as possible for game development
