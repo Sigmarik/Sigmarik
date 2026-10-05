@@ -8,7 +8,7 @@
 (w\W|W|W/w)     - Huge computer graphics & game dev nerd      
  \v|W|W|v/      - Contributor to Charm Quark Engine           
    "|v|"        - Fan of the "f*ck around and find out" method
-    ^ ^                                                        
+    ^ ^                                                       
   </pre>
 
 </div>
