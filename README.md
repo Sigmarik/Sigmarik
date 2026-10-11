@@ -51,6 +51,60 @@ Feel free to send me a message via
 - Telegram: https://t.me/GrumpyUvut
 - Linked In: https://www.linkedin.com/in/grumpy-uvut/
 
+---
+
+### Gallery
+
+<a href="https://imgur.com/a/eFPMRKX#oDax7zH"><img src="https://i.imgur.com/toNAzkf.png" alt="fjords" height="250"></a>
+<a href="https://imgur.com/a/eFPMRKX#oDax7zH"><img src="https://i.imgur.com/oDax7zH.png" alt="fjords" height="250"></a>\
+<a href="https://imgur.com/a/eFPMRKX#oDax7zH"><img src="https://i.imgur.com/vVFB80a.png" alt="fjords" height="250"></a>
+
+***Foggy Fjords**, an unreal engine graphics demo*\
+*No external assets, no help, just sweat, blood and pixels*
+
+<br>
+
+<a href="https://imgur.com/a/3CzEAau"><img src="https://i.imgur.com/vq2q6lc.png" alt="vk-graphics" height="250"></a>
+<a href="https://imgur.com/a/3CzEAau"><img src="https://i.imgur.com/lGR2VYV.png" alt="vk-graphics" height="250"></a>
+<a href="https://imgur.com/a/3CzEAau"><img src="https://i.imgur.com/ACBvbBa.png" alt="vk-graphics" height="250"></a>
+
+*Vulkan demos*
+
+<br>
+
+<img src="resources/curved-world.webp" alt="curvature" height="250">\
+*Sildur's Vibrant Shaders fork with curvature*
+
+<br>
+
+<a href="https://imgur.com/a/spell-brewing-zbP4PWn"><img src="resources/solid-air.gif" alt="spell-brewing" height="200"></a>
+<a href="https://imgur.com/a/spell-brewing-zbP4PWn"><img src="https://i.imgur.com/CYVM4dF.gif" alt="spell-brewing" height="200"></a>
+<a href="https://imgur.com/a/spell-brewing-zbP4PWn"><img src="https://i.imgur.com/5LCDnZZ.png" alt="spell-brewing" height="200"></a>\
+<a href="https://imgur.com/a/spell-brewing-zbP4PWn"><img src="https://i.imgur.com/OpLHRBz.png" alt="spell-brewing"></a>
+
+*Spell brewing minecraft mod where ingredients are interpreted as processor instructions.*
+
+<br>
+
+<img src="resources/xpbd.png" alt="xpbd" height="150">
+<img src="resources/xpbd-soft.png" alt="xpbd" height="150">
+
+*XPBD physics engine*
+
+<br>
+
+<a href="https://www.artstation.com/sigmarionid"><img src="resources/opengl-planet.png" alt="opengl-planet" height="100"></a>
+<a href="https://www.artstation.com/sigmarionid"><img src="resources/tile.png" alt="rocky-tile" height="100"></a>
+<a href="https://www.artstation.com/sigmarionid"><img src="resources/low-poly.png" alt="low-poly-islands" height="100"></a>
+<a href="https://www.artstation.com/sigmarionid"><img src="resources/elephant.png" alt="elephant" height="100"></a>
+<a href="https://www.artstation.com/sigmarionid"><img src="resources/don-trotillo.png" alt="elephant" height="100"></a>
+<a href="https://www.artstation.com/sigmarionid"><img src="resources/pumpkin.png" alt="elephant" height="100"></a>
+<a href="https://www.artstation.com/sigmarionid"><img src="https://i.imgur.com/eeJAncT.png" alt="elephant" height="100"></a>
+<a href="https://www.artstation.com/sigmarionid"><img src="https://i.imgur.com/whRouvo.png" alt="elephant" height="100"></a>
+<a href="https://www.artstation.com/sigmarionid"><img src="resources/mug.png" alt="elephant" height="100"></a>
+
+*Random demos made with everything from OpenGL to Blender, Krita, Unreal and Unity*
+
 <div align="center">
   
   <em>Thanks for stopping by! Have an awesome day.</em>
