@@ -70,6 +70,9 @@ Feel free to send me a message via
 
 *Vulkan demos*
 
+<details>
+<summary><em>More...</em></summary>
+
 <br>
 
 <img src="resources/curved-world.webp" alt="curvature" height="250">\
@@ -104,6 +107,8 @@ Feel free to send me a message via
 <a href="https://www.artstation.com/sigmarionid"><img src="resources/mug.png" alt="elephant" height="100"></a>
 
 *Random demos made with everything from OpenGL to Blender, Krita, Unreal and Unity*
+
+</details>
 
 <div align="center">
   
