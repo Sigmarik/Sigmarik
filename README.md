@@ -38,15 +38,18 @@ It primarily consists of:
 - **Minecraft & other game mods**
 - **Some deeply technical (and possibly boring) experiments**
 
-I'll admit, I haven't written READMEs for most of them, can't really bring myself to shove emojis into every project I have.\
-But the code is there, warts and all!
+Almost none of them have overly descriptive READMEs, but hey, the code is here if you want to take a look.
 
 ---
 
 ### Let's Chat!
 
-If **FleCSibleLua** piqued your interest, or if you stumbled upon something else in my repos that you'd like to talk about - **please reach out!**
 I'm always excited to collaborate, discuss interesting ideas, or just nerd out about game tech.
+
+Feel free to send me a message via
+- Email: itkudryashov@gmail.com
+- Telegram: https://t.me/GrumpyUvut
+- Linked In: https://www.linkedin.com/in/grumpy-uvut/
 
 <div align="center">
   
