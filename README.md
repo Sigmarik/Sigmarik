@@ -96,7 +96,7 @@ Feel free to send me a message via
 <a href="https://www.artstation.com/sigmarionid"><img src="resources/opengl-planet.png" alt="opengl-planet" height="100"></a>
 <a href="https://www.artstation.com/sigmarionid"><img src="resources/tile.png" alt="rocky-tile" height="100"></a>
 <a href="https://www.artstation.com/sigmarionid"><img src="resources/low-poly.png" alt="low-poly-islands" height="100"></a>
-<a href="https://www.artstation.com/sigmarionid"><img src="resources/elephant.png" alt="elephant" height="100"></a>
+<a href="https://www.artstation.com/sigmarionid"><img src="resources/elephant.png" alt="elephant" height="100"></a>\
 <a href="https://www.artstation.com/sigmarionid"><img src="resources/don-trotillo.png" alt="elephant" height="100"></a>
 <a href="https://www.artstation.com/sigmarionid"><img src="resources/pumpkin.png" alt="elephant" height="100"></a>
 <a href="https://www.artstation.com/sigmarionid"><img src="https://i.imgur.com/eeJAncT.png" alt="elephant" height="100"></a>
